@@ -1,0 +1,9 @@
+/* hide the Google account dropdown and the app list at top right */
+#gb > div.gb_Jd.gb_0d > div.gb_Td.gb_Va.gb_Id {
+	display: none !important;
+}
+
+/* hide the help icon at top right */
+#gb > div.gb_Jd.gb_0d > div.gb_Id.gb_Sd.gb_Fe.gb_Le.gb_Ee.gb_Ae.gb_Ie > div.gb_oe.gb_me > div > div > div.h8Aqhb {
+	display: none !important;
+}
